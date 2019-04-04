@@ -1,0 +1,13 @@
+{
+  "name": "mega-synckit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^5.9.2",
+    "oracledb": "2.3.0"
+  },
+  "devDependencies": {
+    "@types/oracledb": "^1.11.34"
+  }
+}
